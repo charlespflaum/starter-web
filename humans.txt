@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+cpflaum me@where twit
 
 # THANKS
 
