@@ -14,3 +14,5 @@ This is a simple web site that can be deplyed anywhere
 
 ## How To Contribute
 
+## Copyright
+
