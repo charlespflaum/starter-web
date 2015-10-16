@@ -1,6 +1,5 @@
 # Starter Web Repo
-This is a simple web-site project
-This is a simple web-site project
+This is a simple web-site project, some more
 
 ## Introduction 
 This is example to show different parts of the Git Repository
