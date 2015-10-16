@@ -12,7 +12,10 @@ To provide an example
 
 This is a simple web site that can be deplyed anywhere
 
+
 ## How To Contribute
+
+fork it! Issue a pull request for review
 
 ## Copyright
 
